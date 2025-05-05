@@ -20,9 +20,10 @@ A simple Python tool that fetches public repositories of any GitHub user and ana
 
 1. Clone the Repository
    
+```bash
 git clone https://github.com/AlishaJahan/github-profile-analyzer.git
 cd github-profile-analyzer
-
+```
 2. Install Dependencies
    
 pip install requests matplotlib
