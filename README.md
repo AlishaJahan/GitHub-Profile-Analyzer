@@ -25,9 +25,12 @@ git clone https://github.com/AlishaJahan/github-profile-analyzer.git
 cd github-profile-analyzer
 ```
 2. Install Dependencies
-   
-pip install requests matplotlib
 
+```bash
+pip install requests matplotlib
+```
 3. Run the Script
-   
+
+```bash
 python github_profile_analyzer.py
+```
