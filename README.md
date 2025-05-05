@@ -32,5 +32,5 @@ pip install requests matplotlib
 3. Run the Script
 
 ```bash
-python github_profile_analyzer.py
+python github.py
 ```
